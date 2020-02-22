@@ -8,7 +8,6 @@ def hello_t(array)
  
   array
 end
-end
 
 # call your method here!
 
